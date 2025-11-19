@@ -18,7 +18,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/poly-30/Password_Generator
+    git clone https://github.com/ShashwatYadav03/Password_Generator
     ```
 2.  Navigate to the project directory:
     ```bash
@@ -48,9 +48,9 @@ Contributions are what make the open-source community such an amazing place to l
 5.  Open a Pull Request
 
 ## 📧 Contact
-Your Name - [@rk_poly](https://twitter.com/rk_poly) - myselfpoly01@gmail.com
+Your Name - [Shashwat Yadav]() - shashwatyadav3327@gmail.com
 
-Project Link: [https://github.com/poly-30/Password_Generator](https://github.com/poly-30/Password_Generator)
+Project Link: [https://github.com/shashwatyadav03/Password_Generator](https://github.com/shashwatyadav03/Password_Generator)
 
 ## Screenshots
 
