@@ -62,4 +62,4 @@ This project is distributed under the MIT License. See LICENSE for more informat
 📧 Contact
 Your Name - @rk_poly - myselfpoly01@gmail.com
 
-Project Link: https://github.com/poly-30/flutter-password-generator
+Project Link: https://github.com/ShashwatYadav03/flutter-password-generator
