@@ -60,6 +60,6 @@ Open a Pull Request
 This project is distributed under the MIT License. See LICENSE for more information.
 
 📧 Contact
-Your Name - @rk_poly - myselfpoly01@gmail.com
+Your Name - @rk_poly - shashwatyadav3327@gmail.com
 
-Project Link: https://github.com/ShashwatYadav03/flutter-password-generator
+Project Link: [https://github.com/ShashwatYadav03/flutter-password-generator](https://github.com/shashwatyadav03/Password_Generator)
